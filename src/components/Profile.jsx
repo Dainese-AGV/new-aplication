@@ -1,12 +1,13 @@
 import React from "react";
 import content from "../image/content.jpg";
 import sun from "../image/sun.jpg";
+import "./Profile.css"
 
 const Profile = () => {
   return (
     <div className="content">
       <div>
-        <img src={content}  alt="content"></img> 
+        <img src={content} alt="content"></img>
       </div>
       <div>
         <img src={sun} alt="sun"></img>
