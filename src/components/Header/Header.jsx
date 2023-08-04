@@ -1,4 +1,4 @@
-import logo from "../image/bird.jpg";
+import logo from "/New-aplication/index/src/image/bird.jpg";
 import React from "react";
 import "./Header.css"
 

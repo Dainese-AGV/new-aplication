@@ -3,7 +3,4 @@
     grid-area: c;
     background-color: wheat;
   }
-  .content img {
-    width: 300px;
-    object-fit: cover;
-  }
+  
